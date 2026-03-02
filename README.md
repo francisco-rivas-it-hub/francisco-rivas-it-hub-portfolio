@@ -7,6 +7,20 @@ Role: Onsite IT Specialist | HiTrust Onsite Control Owner
 
 ---
 
+## Engineering Positioning
+
+This portfolio documents infrastructure-level execution under restricted-permission enterprise conditions, including:
+
+- Identity-layer remediation
+- Network segmentation governance
+- Endpoint security enforcement
+- Compliance-aligned operational controls
+- Automation-driven standardization
+
+All projects reflect direct production involvement — not simulated lab scenarios.
+
+---
+
 ## Operational Scale
 
 - 250+ endpoints across 5 sites
