@@ -43,7 +43,7 @@ Specialized in bridging the gap between global IT strategy and local execution �
 | [02](./02%20%E2%80%94%20Active%20Directory%20Governance) | **Active Directory Governance** | Trust Repair · GPO/RSOP · DUO MFA · Entra ID · WSUS |
 | [03](./03%20%E2%80%94%20Network%20Segmentation) | **Network Segmentation** | Cisco Catalyst 3750 · VLANs · 802.1X NAC · PDU Rack · VoIP |
 | [04](./04%20%E2%80%94%20Endpoint%20Security) | **Endpoint Security** | CrowdStrike · BitLocker · HP Sure Start · TPM · PKI/TLS |
-| [05](./05%20%E2%80%94%20HiTrust%20Control%20Ownership) | **HiTrust Control Ownership** | 33 exclusive + 22 shared · 11 domains · Sole SPOC |
+| [05](./05%20%E2%80%94%20HiTrust%20Control%20Ownership) | **HiTrust Control Ownership** | 33 exclusive · Sole SPOC |
 | [06](./06%20%E2%80%94%20Infrastructure%20Automation) | **Infrastructure Automation** | PowerShell · Global SIP · winget → MSI → EXE pipeline |
 | [07](./07%20%E2%80%94%20Remote%20Operations) | **Remote Operations** | AnyDesk · NinjaRMM · UltraVNC · TeamViewer · 5 sites |
 | [08](./08%20%E2%80%94%20Incident%20Response) | **Incident Response** | Structured triage · Root cause analysis · Cross-team escalation |
