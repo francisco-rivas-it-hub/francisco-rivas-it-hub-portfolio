@@ -27,8 +27,8 @@ All projects reflect direct production involvement — not simulated lab scenari
 - 1,000+ users supported
 - 2,000+ tickets handled
 - 100+ Windows 11 migrations executed
-- 11 exclusive HiTrust controls owned onsite
-- 7+ VLAN-segmented client campaigns under single AD domain
+- 33 exclusive HiTrust controls owned onsite
+- +30 VLAN-segmented client campaigns under single AD domain
 
 ---
 
