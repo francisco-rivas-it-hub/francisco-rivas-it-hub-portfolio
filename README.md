@@ -70,9 +70,8 @@ Dev           →  Git · GitHub · C# · Windows Forms · Batch
 
 Serving as **sole onsite SPOC** for HiTrust certification across the El Salvador site:
 
-- **33 exclusive controls** with direct ownership and evidence collection
-- **22 shared controls** in coordination with global teams
-- Coverage across **11 security domains** including physical security, endpoint protection, access control, and network governance
+- **33 exclusive controls** with direct ownership and evidence collection  
+- Coverage across **3 security domains** including physical security, endpoint protection, access control, and network governance
 - Evidence artifacts: BitLocker on 13+ endpoints, CCTV dual-system documentation, CO₂ extinguisher compliance, physical walkthrough records
 
 ---
