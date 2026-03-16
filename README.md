@@ -25,7 +25,7 @@ Specialized in bridging the gap between global IT strategy and local execution �
 | Metric | Value |
 |---|---|
 | 👥 Users Supported | 1,000+ |
-| 🖥️ Endpoints Under Management | 250+ across 5 sites |
+| 🖥️ Endpoints Under Management | 500+ across 5 sites |
 | 🎫 Tickets Resolved | 2,000+ |
 | 🪟 Windows 11 Migrations | 100+ |
 | 🛡️ HiTrust Controls Owned (Exclusive) | 33 |
