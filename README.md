@@ -89,7 +89,7 @@ Designed and submitted a PowerShell-based automation framework for managing camp
 ## Certifications & Studies
 
 - 🎓 Cybersecurity — **ESIT** *(in progress)*
-- 🌐 English — **B2 Level**
+- 🌐 English — **C1 Level**
 - 🔐 HiTrust CSF — Practical onsite experience (33 controls)
 
 ---
