@@ -50,7 +50,7 @@ Currently transitioning toward **Technical Project Manager / IT Project Manager*
 Designed and implemented the organization’s first Active Directory infrastructure from the ground up using Samba AD (Zentyal 8.1).
 
 - Built an initial pilot domain to demonstrate feasibility and security controls to leadership.
-- After identifying domain-rename limitations in Samba AD, designed and deployed a clean production domain (`ad.prontoapps.app`) from scratch.
+- After identifying domain-rename limitations in Samba AD, designed and deployed a clean production domain from scratch.
 - Configured Domain Controller, Group Policy Objects, LAPS, password hardening and named accounts.
 - Produced audit-ready documentation aligned with ISO 27001:2022 requirements.
 - Maintained direct technical ownership and communication with executive stakeholders.
