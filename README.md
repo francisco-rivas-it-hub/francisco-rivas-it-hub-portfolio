@@ -80,3 +80,32 @@ Multi-method installation engine (winget → MSI → EXE) compiled to a branded 
 ---
 
 ## Core Stack
+Endpoint      →  Windows 11 · DISM · Sysprep · WinPE · UEFI:NTFS · pnputil
+Identity      →  Active Directory · GPO · LAPS · DUO MFA · Entra ID · PowerShell
+Network       →  Cisco Catalyst · VLANs · 802.1X NAC · CyberPower PDU · VoIP
+Security      →  CrowdStrike Falcon · BitLocker · HP Sure Start · AppLocker
+Compliance    →  HiTrust CSF · ISO 27001 preparation · Evidence collection
+Automation    →  PowerShell · ps2exe · C# WinForms · winget · MSI/EXE pipelines
+Remote Mgmt   →  NinjaRMM · AnyDesk · UltraVNC · TeamViewer
+Dev           →  Git · GitHub · Python · C# · Windows Forms
+---
+## HiTrust Control Ownership
+
+Served as **sole onsite SPOC** for HiTrust certification at the El Salvador site:
+
+- 33 exclusive controls with direct ownership and evidence collection
+- Coverage across physical security, endpoint protection, access control and network governance
+- Evidence artifacts included BitLocker deployment, CCTV documentation, physical security records and walkthrough evidence
+
+---
+
+## Certifications & Studies
+
+- 🎓 Technical Degree in Cybersecurity — **ESIT** *(in progress)*
+- 🌐 English — **C1 Advanced** (EF SET certified)
+- ☁️ Microsoft Azure AZ-104 *(in progress)*
+- 🔐 HiTrust CSF — Practical onsite ownership of 33 controls
+
+---
+
+*Built from real production work. Every case study has a ticket and a measurable outcome behind it.*
